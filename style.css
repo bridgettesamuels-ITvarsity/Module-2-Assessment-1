@@ -54,6 +54,7 @@ body{
 
 #main-home{
        margin-top: 120px;
+    background-size: cover;
 }
 
 /*====================BOTTOM - TABS ===============*/
@@ -130,6 +131,10 @@ a.info-box{
       float      : right;
       margin-top : 25px;
       height  :   40px; 
+}
+
+#main{
+    background-size: cover;
 }
 
 /* ============= ANIMAL BOX ============*/
